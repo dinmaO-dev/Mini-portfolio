@@ -111,7 +111,7 @@ body {
 /* Media query for Phone devices */
 @media only screen and (max-width: 600px) {
     .flower{
-        max-width: 50%;
+        max-width: 40%;
     }
 
     #about h1{
